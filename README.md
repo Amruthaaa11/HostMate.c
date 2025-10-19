@@ -22,8 +22,8 @@
 - **Concepts**: Structs, Arrays, Sorting (Bubble Sort), String Handling, CLI Menus
 ---
 Author:
-Amrutha
-B.E Computer Science Engineering(AI&ML)
+Amrutha<br>
+B.E Computer Science Engineering(AI&ML)<br>
 Global Academy of Technology,Bangalore
 
 
